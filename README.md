@@ -1,2 +1,2 @@
-# hatojava
-Beginlearningjava
+# HATO Java
+Begin learning java
